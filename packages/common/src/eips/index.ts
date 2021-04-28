@@ -8,4 +8,5 @@ export const EIPs: eipsType = {
   2718: require('./2718.json'),
   2929: require('./2929.json'),
   2930: require('./2930.json'),
+  3198: require('./3198.json'),
 }
